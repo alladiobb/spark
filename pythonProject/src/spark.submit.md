@@ -50,5 +50,5 @@ spark-by-examples.jar
 
 ```shell
 spark-submit \
-    /mnt/c/projetos/spark/pythonProject
+    /mnt/c/projetos/spark/pythonProject/src/pyspark/app.py
 ``` 

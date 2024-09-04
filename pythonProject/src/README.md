@@ -11,11 +11,18 @@ python3 --version
 #project [location]
 
 pip install virtualenv
-/Users/alladiobb/github/spark
-virtualenv venv
+#virtualenv [nome do enviroment]
+virtualenv venvSpark
 
 #activate
-source vend/bin/activate
+source venv/bin/activate
+
+#deactivate
+deactivate
+
+#localizar as vens
+find ~/ -name "virtualenv"
+#padrão ubuntu: ~/.local/share/virtualenvs
 
 #pip install
-pip install -r requirements.txt
+pip install -r requirements.txt 
