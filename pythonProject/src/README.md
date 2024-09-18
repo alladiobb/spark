@@ -14,6 +14,9 @@ pip install virtualenv
 #virtualenv [nome do enviroment]
 virtualenv venvSpark
 
+#rename virtual enviroment
+.mv venvSpark new_name_virtualEnviroment
+
 #activate
 source venv/bin/activate
 
