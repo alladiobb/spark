@@ -10,7 +10,7 @@ brew info apache-spark
 ```
 instalando
 ```
-brew isntall apache-spark
+brew install apache-spark
 ```
 
 Achando o caminho do PySpark
